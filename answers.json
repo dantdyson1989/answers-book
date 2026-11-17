@@ -1,0 +1,482 @@
+[
+ {
+  "category": "肯定",
+  "text": "是的"
+ },
+ {
+  "category": "肯定",
+  "text": "毫无疑问"
+ },
+ {
+  "category": "肯定",
+  "text": "一定会实现"
+ },
+ {
+  "category": "肯定",
+  "text": "放心去做"
+ },
+ {
+  "category": "肯定",
+  "text": "答案是肯定的"
+ },
+ {
+  "category": "肯定",
+  "text": "会有好结果"
+ },
+ {
+  "category": "肯定",
+  "text": "值得一试"
+ },
+ {
+  "category": "肯定",
+  "text": "就是现在"
+ },
+ {
+  "category": "肯定",
+  "text": "你已经知道答案了"
+ },
+ {
+  "category": "肯定",
+  "text": "大胆去做吧"
+ },
+ {
+  "category": "肯定",
+  "text": "会的，只是时间问题"
+ },
+ {
+  "category": "肯定",
+  "text": "相信你的直觉"
+ },
+ {
+  "category": "肯定",
+  "text": "这是个好主意"
+ },
+ {
+  "category": "肯定",
+  "text": "好运正在靠近"
+ },
+ {
+  "category": "肯定",
+  "text": "一切都会顺利"
+ },
+ {
+  "category": "否定",
+  "text": "不行"
+ },
+ {
+  "category": "否定",
+  "text": "现在不是时候"
+ },
+ {
+  "category": "否定",
+  "text": "换个方向吧"
+ },
+ {
+  "category": "否定",
+  "text": "别勉强"
+ },
+ {
+  "category": "否定",
+  "text": "答案是否定的"
+ },
+ {
+  "category": "否定",
+  "text": "再想想"
+ },
+ {
+  "category": "否定",
+  "text": "此路不通"
+ },
+ {
+  "category": "否定",
+  "text": "先放一放"
+ },
+ {
+  "category": "否定",
+  "text": "恐怕不行"
+ },
+ {
+  "category": "否定",
+  "text": "不要做这个决定"
+ },
+ {
+  "category": "中立",
+  "text": "也许吧"
+ },
+ {
+  "category": "中立",
+  "text": "很难说"
+ },
+ {
+  "category": "中立",
+  "text": "一半一半"
+ },
+ {
+  "category": "中立",
+  "text": "看情况"
+ },
+ {
+  "category": "中立",
+  "text": "尚未可知"
+ },
+ {
+  "category": "中立",
+  "text": "未来会揭晓"
+ },
+ {
+  "category": "中立",
+  "text": "有可能，但不确定"
+ },
+ {
+  "category": "中立",
+  "text": "顺其自然"
+ },
+ {
+  "category": "中立",
+  "text": "别急着下结论"
+ },
+ {
+  "category": "中立",
+  "text": "两种可能都有"
+ },
+ {
+  "category": "建议",
+  "text": "问问你的心"
+ },
+ {
+  "category": "建议",
+  "text": "先睡一觉再说"
+ },
+ {
+  "category": "建议",
+  "text": "和信任的人聊聊"
+ },
+ {
+  "category": "建议",
+  "text": "从小事开始"
+ },
+ {
+  "category": "建议",
+  "text": "别一个人扛"
+ },
+ {
+  "category": "建议",
+  "text": "换个角度看"
+ },
+ {
+  "category": "建议",
+  "text": "等等再说"
+ },
+ {
+  "category": "建议",
+  "text": "做好准备再行动"
+ },
+ {
+  "category": "建议",
+  "text": "保持耐心"
+ },
+ {
+  "category": "建议",
+  "text": "答案在你手里"
+ },
+ {
+  "category": "建议",
+  "text": "先完成手头的事"
+ },
+ {
+  "category": "建议",
+  "text": "相信过程"
+ },
+ {
+  "category": "建议",
+  "text": "别被恐惧吓住"
+ },
+ {
+  "category": "建议",
+  "text": "去散散步，回来再想"
+ },
+ {
+  "category": "建议",
+  "text": "把问题写下来"
+ },
+ {
+  "category": "建议",
+  "text": "试试看就知道了"
+ },
+ {
+  "category": "建议",
+  "text": "倾听内心的声音"
+ },
+ {
+  "category": "建议",
+  "text": "别让过去决定未来"
+ },
+ {
+  "category": "建议",
+  "text": "给自己一点时间"
+ },
+ {
+  "category": "建议",
+  "text": "机会藏在细节里"
+ },
+ {
+  "category": "建议",
+  "text": "先照顾好自己"
+ },
+ {
+  "category": "建议",
+  "text": "勇敢一点"
+ },
+ {
+  "category": "建议",
+  "text": "慢一点也没关系"
+ },
+ {
+  "category": "建议",
+  "text": "你比想象中强大"
+ },
+ {
+  "category": "建议",
+  "text": "从今天开始"
+ },
+ {
+  "category": "建议",
+  "text": "别想太多，去做"
+ },
+ {
+  "category": "建议",
+  "text": "事情没你想的那么糟"
+ },
+ {
+  "category": "建议",
+  "text": "保持好奇"
+ },
+ {
+  "category": "建议",
+  "text": "答案会自己出现"
+ },
+ {
+  "category": "肯定",
+  "text": "星星已经给出了答案"
+ },
+ {
+  "category": "肯定",
+  "text": "月亮站在你这边"
+ },
+ {
+  "category": "肯定",
+  "text": "命运之轮正在转向你"
+ },
+ {
+  "category": "肯定",
+  "text": "放心，宇宙在帮你"
+ },
+ {
+  "category": "肯定",
+  "text": "这正是你等待的机会"
+ },
+ {
+  "category": "肯定",
+  "text": "门已经为你打开了"
+ },
+ {
+  "category": "肯定",
+  "text": "你的坚持会有回报"
+ },
+ {
+  "category": "肯定",
+  "text": "好消息比你想的更近"
+ },
+ {
+  "category": "肯定",
+  "text": "全力以赴，不会错"
+ },
+ {
+  "category": "肯定",
+  "text": "绿灯，一路畅通"
+ },
+ {
+  "category": "肯定",
+  "text": "答案如星辰般确定"
+ },
+ {
+  "category": "肯定",
+  "text": "是的，而且比想象中更好"
+ },
+ {
+  "category": "肯定",
+  "text": "你的运气正在上升"
+ },
+ {
+  "category": "肯定",
+  "text": "勇敢迈出那一步"
+ },
+ {
+  "category": "肯定",
+  "text": "水晶球里一片晴朗"
+ },
+ {
+  "category": "否定",
+  "text": "今晚的星象不合"
+ },
+ {
+  "category": "否定",
+  "text": "这条路布满荆棘"
+ },
+ {
+  "category": "否定",
+  "text": "乌云还没散去"
+ },
+ {
+  "category": "否定",
+  "text": "别被表象迷惑"
+ },
+ {
+  "category": "否定",
+  "text": "这是个陷阱，绕开它"
+ },
+ {
+  "category": "否定",
+  "text": "时机未到，强行无益"
+ },
+ {
+  "category": "否定",
+  "text": "你心里其实已经拒绝了"
+ },
+ {
+  "category": "否定",
+  "text": "塔罗牌翻出了倒吊人"
+ },
+ {
+  "category": "否定",
+  "text": "先守住你拥有的"
+ },
+ {
+  "category": "否定",
+  "text": "这件事没有捷径"
+ },
+ {
+  "category": "否定",
+  "text": "别为它浪费魔力"
+ },
+ {
+  "category": "否定",
+  "text": "答案藏在阴影里，是「不」"
+ },
+ {
+  "category": "否定",
+  "text": "回头还来得及"
+ },
+ {
+  "category": "否定",
+  "text": "听从那个说不的声音"
+ },
+ {
+  "category": "中立",
+  "text": "雾还没散，再等等"
+ },
+ {
+  "category": "中立",
+  "text": "星象暧昧，尚未落定"
+ },
+ {
+  "category": "中立",
+  "text": "答案在两条路之间"
+ },
+ {
+  "category": "中立",
+  "text": "月亮圆缺之间，难说"
+ },
+ {
+  "category": "中立",
+  "text": "风向未定"
+ },
+ {
+  "category": "中立",
+  "text": "水晶球里一片朦胧"
+ },
+ {
+  "category": "中立",
+  "text": "一半是命运，一半是你"
+ },
+ {
+  "category": "中立",
+  "text": "故事还没写到那一页"
+ },
+ {
+  "category": "中立",
+  "text": "先观察三天再说"
+ },
+ {
+  "category": "中立",
+  "text": "答案随季节而变"
+ },
+ {
+  "category": "中立",
+  "text": "有人还没亮出底牌"
+ },
+ {
+  "category": "中立",
+  "text": "这件事比表面复杂"
+ },
+ {
+  "category": "中立",
+  "text": "抛一枚硬币吧，正反面都对"
+ },
+ {
+  "category": "中立",
+  "text": "夜还长，不必今晚决定"
+ },
+ {
+  "category": "中立",
+  "text": "云层太厚，星星看不清"
+ },
+ {
+  "category": "建议",
+  "text": "点一盏灯，慢慢想"
+ },
+ {
+  "category": "建议",
+  "text": "把愿望写在纸上"
+ },
+ {
+  "category": "建议",
+  "text": "向月亮许个愿，然后行动"
+ },
+ {
+  "category": "建议",
+  "text": "先补一觉，梦里有线索"
+ },
+ {
+  "category": "建议",
+  "text": "问问那位年长的朋友"
+ },
+ {
+  "category": "建议",
+  "text": "把大问题拆成三步"
+ },
+ {
+  "category": "建议",
+  "text": "留意今天的第三个征兆"
+ },
+ {
+  "category": "建议",
+  "text": "先整理好你的桌面和心情"
+ },
+ {
+  "category": "建议",
+  "text": "给对方一次机会"
+ },
+ {
+  "category": "建议",
+  "text": "读一页喜欢的书再决定"
+ },
+ {
+  "category": "建议",
+  "text": "出门走走，答案在风里"
+ },
+ {
+  "category": "建议",
+  "text": "相信第一个念头"
+ }
+]
